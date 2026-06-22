@@ -4,6 +4,6 @@ The final BCD-to-Seven-Segment Decoder circuit is implemented and included in th
 
 The circuit is fully functional and can be opened using Logisim or Logisim-evolution for simulation and testing.
 
-Circuit File: [Download Circuit](assets/seven_segment_decoder.circ)
+Circuit File: [Download Circuit](assets/7segment_decoder.circ)
 
 
