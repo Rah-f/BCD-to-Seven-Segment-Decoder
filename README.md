@@ -1,6 +1,3 @@
-# SevenSegment_Decoder_Display
-BCD to Seven-Segment Decoder using Karnaugh Maps, Boolean Simplification, and Logic Circuit Design.
-
 # BCD to Seven-Segment Decoder
 
 This repository contains the complete design and implementation of a BCD-to-Seven-Segment Decoder using combinational logic design techniques.
