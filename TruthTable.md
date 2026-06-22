@@ -9,4 +9,4 @@ The circuit has:
 Valid inputs represent decimal digits from 0 to 9.
 Input combinations from 1010 to 1111 are treated as Don't Care conditions and are used for logic simplification in Karnaugh Maps.
 
-![Image](اسم_الصورة.png)
+![Image](TP7SD.png)
