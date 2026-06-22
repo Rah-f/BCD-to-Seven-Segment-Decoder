@@ -1,1 +1,1 @@
-
+The decoder uses four BCD inputs (A, B, C, D) and seven outputs (a–g) to drive a seven-segment display. Valid inputs represent decimal digits 0–9, while input combinations 1010–1111 are treated as Don’t Care conditions for logic simplification.
