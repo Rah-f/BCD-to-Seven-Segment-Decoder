@@ -20,5 +20,4 @@ The objective of this project is to convert BCD (Binary-Coded Decimal) inputs in
 * Karnaugh Maps
 * Boolean Expressions
 * Logic Circuits
-* Circular Layout Design
 * Final Decoder Circuit
