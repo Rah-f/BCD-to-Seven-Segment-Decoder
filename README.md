@@ -7,9 +7,8 @@ This repository contains the complete design and implementation of a BCD-to-Seve
 * BCD to Seven-Segment Truth Table.
 * Karnaugh Maps (K-Maps) for each output segment (a–g).
 * Simplified Boolean expressions obtained from the K-Maps.
-* Logic circuit design for each output segment.
-* Final integrated decoder circuit combining all segment outputs.
-* Enhanced circuit layout with an improved circular design.
+* Complete logic circuit implementation of the BCD-to-Seven-Segment Decoder.
+* Redesigned circuit layout with a more organized circular structure to enhance readability and appearance.
 
 # Objective
 
@@ -21,5 +20,5 @@ The objective of this project is to convert BCD (Binary-Coded Decimal) inputs in
 * Karnaugh Maps
 * Boolean Expressions
 * Logic Circuits
-* Final Decoder Circuit
 * Circular Layout Design
+* Final Decoder Circuit
