@@ -2,7 +2,7 @@
 
 This repository contains the complete design and implementation of a BCD-to-Seven-Segment Decoder using combinational logic design techniques.
 
-# Project Contents
+# Contents
 
 * BCD to Seven-Segment Truth Table.
 * Karnaugh Maps (K-Maps) for each output segment (a–g).
