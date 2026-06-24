@@ -1,4 +1,4 @@
-# Description
+# Truth table
 
 This is a BCD-to-Seven-Segment truth table.
 
